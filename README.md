@@ -62,7 +62,6 @@ Designing an Android application based on the Deep-Learning model to identify th
 The object detection algorithms proposed work to identify the different insect classes on the crop. This method can quickly identify insects, which may significantly increase crop yield. The literature focuses on training YoloV5, CNN, and InceptionV3 models for diagnosing
 the occurrence of insects in crop plants. These CNN-based models provide excellent image detection and classification outcomes.
 </h1>
-![alt text](<Screenshot 2025-09-22 080330.png>)
-
+ 
 
  
