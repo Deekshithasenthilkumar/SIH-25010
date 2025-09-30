@@ -67,6 +67,12 @@ Designing deep learning models to identify insects in real time
 <h3>
 The object detection algorithms proposed work to identify the different insect classes on the crop. This method can quickly identify insects, which may significantly increase crop yield. The literature focuses on training YoloV5, CNN, and InceptionV3 models for diagnosing the occurrence of insects in crop plants. These CNN-based models provide excellent image detection and classification outcomes.
 </h3>
- 
 
- 
+## Impact and Benefits
+<h3>The suggested work has vast impact and application in agriculture and crop protection. With the use of deep learning-based insect detection on soybean crops, farmers and scientists are able to identify pests early on, thus averting extensive damage and minimizing crop loss. Employing preprocessing methods like resizing and augmentation guarantees improved model accuracy and resilience, thus making the solution reliable under real-life conditions. Real-time detection of insects using a mobile app improves convenience for farmers, as they are able to easily detect damaging insects on the field without necessarily needing expert skills. This not only improves sustainable agriculture by curbing excessive use of pesticides but also enhances productivity in crops, improves food security, and reduces the financial constraints on farmers.</h3>
+
+## Feasibility and Viability
+ <h3>The viability and feasibility of the suggested solution are greatly ensured through breakthroughs in deep learning and mobile technology. With large amounts of datasets on plant leaves and insect images available, along with preprocessing techniques such as resizing and augmentation, the models can be trained to possess high accuracy and generalization. Current advanced deep learning models have already shown their effectiveness in object detection and image classification, rendering their utilization in insect identification realistic and feasible. In addition, deployment through integration into an Android application is simple and convenient to access for farmers, even in isolated regions. The system is cost-saving, scalable, and flexible across various crops, with high chances of real-world application and long-term viability in agricultural use. </h3>
+
+## Research and Reference
+<h3>GOOGLE.COM</h3>
