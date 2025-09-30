@@ -56,7 +56,8 @@ Designing deep learning models to identify insects in real time
 
 •Designing an Android application based on the Deep-Learning model to identify the presence of insects on crops
 </h3>
-<img width="961" height="630" alt="image" src="https://github.com/user-attachments/assets/08410c26-62c2-4fbb-a07e-ae729ccfac1e" />
+<img width="827" height="831" alt="Screenshot 2025-09-30 201504" src="https://github.com/user-attachments/assets/3c590696-db4f-4f27-9fd2-48b2b150c3b3" />
+
 
 
 
